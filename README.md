@@ -1,2 +1,0 @@
-# datasciencecoursera
-Tareas_Datasciencecoursera
